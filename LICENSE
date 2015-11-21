@@ -1,6 +1,11 @@
 The MIT License (MIT)
 
-Copyright (c) 2014 Michael Rose
+Copyright (c) 2015 Philippe Grosjean
+
+Code for compiling using R/servr and Jekyll is copyright (c) 2014 Yihui Xie
+
+The Minimal Mistakes theme and associated files are copyright (c) 2014 Michael Rose
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
