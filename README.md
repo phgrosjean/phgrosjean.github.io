@@ -8,4 +8,4 @@ Currently, work in progress... migrating from servr/Jekyll to blogdown/Hugo!
 
 - Installed blogdown and hugo (version 0.31.1) using `blogdown::install_hugo()`.
 
-- Created the Ugo bolgdown site with academic theme using `blogdown::new_site(theme = "gcushen/hugo-academic")`, but it does not work because the directory is not empty. Hence, I installed in another directory, selecting new project
+- Created the Ugo bolgdown site with academic theme using `blogdown::new_site(theme = "gcushen/hugo-academic")`, but it does not work because the directory is not empty. Hence, I installed in another directory, selecting new project, then new website using Hugo, and indicate `gcushen/hugo-academic` as theme.
