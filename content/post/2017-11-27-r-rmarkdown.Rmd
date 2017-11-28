@@ -1,28 +1,27 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2017-11-28T18:36:00-01:00
+title: "R Markdown test"
+author: "Philippe Grosjean"
+date: 2017-11-27T18:36:00-01:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
+draft: false
+summary: "Exemple of using R chunks, R figures and reference to figures"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
+## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-You can embed an R code chunk like this:
+Test of an R Markdown post, see <http://rmarkdown.rstudio.com>. You can embed an R code chunk like this:
 
 ```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
+cars_lm <- lm(dist ~ speed, data = cars)
+cars_lm
 ```
 
-# Including Plots
+## Including Plots
 
 You can also embed plots. See Figure \@ref(fig:pie) for example:
 
@@ -35,3 +34,7 @@ pie(
   init.angle = -50, border = NA
 )
 ```
+
+{{% alert note %}}
+You can use an `alert note` to stand out a section.
+{{% /alert %}}

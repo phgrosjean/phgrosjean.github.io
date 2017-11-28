@@ -1,0 +1,14 @@
++++
+# An example custom tag page (rename it _index.md to use it)
+title = "Content tagged as 'Academic'"
+date = "2017-01-01T00:00:00"
+math = false
+highlight = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/main-header.jpg"
+caption = "Image credit: [**Kevin Phillips**](http://www.publicdomainpictures.net/view-image.php?image=137855&picture=sunset-beach)"
++++
+
+Here is a list of all the content that has been tagged as *academic*.

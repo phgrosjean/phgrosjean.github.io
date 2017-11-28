@@ -39,6 +39,6 @@ weight = 5
 
 # Biography
 
-Philippe Grosjean is a professor of marine ecology and biostatistics at the Complexys Institute, University of Mons (UMONS), Belgium. His research interests include coral ecophysiology, artificial reef mesocosms, automatic identification of plankton images, growth models, machine learning algorithms, evolution and ecology of open source software. He is the head of the Numerical Ecology of Aquatic Systems laboratory, which studies coral and plankton, and develops software for the ecologist. 
+I am a professor of marine ecology and biostatistics at the Complexys Institute, University of Mons (UMONS), Belgium. My research interests include coral ecophysiology, artificial reef mesocosms, automatic identification of plankton images, growth models, machine learning algorithms, evolution and ecology of open source software. I am head of the Numerical Ecology of Aquatic Systems laboratory, which studies coral and plankton, and develops software for the ecologist. 
 
-He teaches the whole curriculum of biostatistics to students in biology at UMONS, where we emphasize the importance of good practice for reproductible research and open science. He is also in charge of the courses in marine ecology, ecophysiology, oceanography, and aquariology at UMONS.
+I teach the whole curriculum of biostatistics to students in biology at UMONS, where we emphasize the importance of good practice for reproductible research and open science. I am also in charge of the courses in marine ecology, ecophysiology, oceanography, and aquariology at UMONS.

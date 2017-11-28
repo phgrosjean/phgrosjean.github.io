@@ -6,7 +6,7 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Philippe Grosjean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Philippe Grosjean</copyright>
+    <copyright>&amp;copy; 2017 Philippe Grosjean (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
     <lastBuildDate>Tue, 28 Nov 2017 18:43:00 +0000</lastBuildDate>
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     

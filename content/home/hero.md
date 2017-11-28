@@ -29,8 +29,6 @@ Philippe Grosjean
 <br>
 <small>Marine Ecologist, Biostatistician, Software Developer and Enthousiast UseR :octopus:</small>
 <br><br>
-<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=gcushen&amp;repo=hugo-academic&amp;type=star&amp;count=true&amp;size=large" scrolling="0" width="160px" height="30px" frameborder="0"></iframe>
-<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=gcushen&amp;repo=hugo-academic&amp;type=fork&amp;count=true&amp;size=large" scrolling="0" width="158px" height="30px" frameborder="0"></iframe>
 
 <script type="text/javascript">
   (function defer() {

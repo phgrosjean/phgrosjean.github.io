@@ -20,3 +20,4 @@ Currently, work in progress... migrating from servr/Jekyll to blogdown/Hugo!
     * http://www.publicdomainpictures.net/view-image.php?image=42719&picture=cell, CC0 Public Domain
     * http://www.publicdomainpictures.net/view-image.php?image=137855&picture=sunset-beach, CC0 Public Domain
     * http://www.publicdomainpictures.net/view-image.php?image=210025&picture=solitary-sunset, CC0 Public Domain
+    * Other images from pixabay.com, CC0 Public Domain

@@ -1,7 +1,7 @@
 +++
 date = 2016-04-17
 draft = false
-tags = []
+tags = ["academic", "R Markdown"]
 title = "Writing content with Markdown, LaTeX, and Shortcodes"
 math = true
 +++

@@ -11,7 +11,8 @@ Create a beautifully simple personal or academic website in under 10 minutes.
 
 [header]
 image = "headers/secondary-header.jpg"
-caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+caption = "Image credit: [**Jean Beaufort**](http://www.publicdomainpictures.net/view-image.php?image=210025&picture=solitary-sunset)"
+preview = false
 
 +++
 
@@ -77,10 +78,6 @@ The core parameters for the website can be edited in the `config.toml` configura
 ### Introduce yourself
 
 Edit your biography in the *about* widget `content/home/about.md` that you copied across from the `themes/academic/exampleSite/` folder. The research interests and qualifications are stored as `interests` and `education` variables. The academic qualifications are defined as multiples of `[[education.courses]]` and can be created or deleted as necessary. It's possible to completely hide the interests and education lists by deleting their respective variables.
-
-### Customize the homepage
-
-Refer to our guide on using [widgets]({{< ref "post/widgets.md" >}}) to customize your homepage.
 
 ### Add your content
 

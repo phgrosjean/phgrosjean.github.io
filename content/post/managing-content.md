@@ -17,8 +17,7 @@ To display a featured image in content page headers, the parameters below can be
 ```toml
 [header]
 image = "headers/secondary-header.jpg"
-caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
-
+caption = "Image credit: [**Jean Beaufort**](http://www.publicdomainpictures.net/view-image.php?image=210025&picture=solitary-sunset)"
 ```
 
 {{% alert note %}}
@@ -101,7 +100,8 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/main-header.jpg"
-caption = "My caption :smile:"
+caption = "Image credit: [**Kevin Phillips**](http://www.publicdomainpictures.net/view-image.php?image=137855&picture=sunset-beach)"
+preview = false
 
 +++
 

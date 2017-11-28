@@ -5,15 +5,6 @@
     
     <url>
     
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2017-11-28T18:36:00-01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/talk/</loc>
       <lastmod>2017-11-28T18:43:00+00:00</lastmod>
     </url>
@@ -23,8 +14,35 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>/post/effective-web-design/</loc>
+      <lastmod>2017-11-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/sciviews-box/</loc>
+      <lastmod>2017-11-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2017-11-28T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2017-11-27-r-rmarkdown/</loc>
+      <lastmod>2017-11-27T18:36:00-01:00</lastmod>
     </url>
     
   
@@ -42,15 +60,6 @@
     <url>
     
       <loc>/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -86,15 +95,6 @@
     
     <url>
     
-      <loc>/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/managing-content/</loc>
       <lastmod>2016-04-18T00:00:00+02:00</lastmod>
     </url>
@@ -113,26 +113,8 @@
     
     <url>
     
-      <loc>/post/faq/</loc>
-      <lastmod>2016-04-10T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -169,7 +151,27 @@
     
     <url>
     
+      <loc>/tags/academic/</loc>
+      <lastmod>2017-09-03T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/data-science/</loc>
+      <lastmod>2017-11-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -198,8 +200,8 @@
     
     <url>
     
-      <loc>/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00+02:00</lastmod>
+      <loc>/tags/design/</loc>
+      <lastmod>2017-11-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -208,8 +210,8 @@
     
     <url>
     
-      <loc>/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+01:00</lastmod>
+      <loc>/tags/hugo/</loc>
+      <lastmod>2017-09-03T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -229,7 +231,7 @@
     <url>
     
       <loc>/tags/plot/</loc>
-      <lastmod>2017-11-28T18:36:00-01:00</lastmod>
+      <lastmod>2017-11-27T18:36:00-01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -259,7 +261,7 @@
     <url>
     
       <loc>/categories/r/</loc>
-      <lastmod>2017-11-28T18:36:00-01:00</lastmod>
+      <lastmod>2017-11-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -269,7 +271,7 @@
     <url>
     
       <loc>/tags/r-markdown/</loc>
-      <lastmod>2017-11-28T18:36:00-01:00</lastmod>
+      <lastmod>2017-11-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -279,7 +281,17 @@
     <url>
     
       <loc>/tags/regression/</loc>
-      <lastmod>2017-11-28T18:36:00-01:00</lastmod>
+      <lastmod>2017-11-27T18:36:00-01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/reproductible-research/</loc>
+      <lastmod>2017-11-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -289,7 +301,27 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-09-03T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/user-interface/</loc>
+      <lastmod>2017-11-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/web/</loc>
+      <lastmod>2017-11-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

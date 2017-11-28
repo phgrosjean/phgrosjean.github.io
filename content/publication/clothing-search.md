@@ -59,8 +59,9 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/main-header.jpg"
-caption = "My caption :smile:"
+image = "headers/book-header.jpg"
+caption = "Image credit: [**Pexels**](https://pixabay.com/en/blur-bokeh-book-college-data-1868068/)"
+preview = false
 
 +++
 

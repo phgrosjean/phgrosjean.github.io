@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-I am a teaching instructor for the following courses at University of Mons, Belgium:
+I am a teaching instructor for the following courses in the [Faculty of Sciences](http://portail.umons.ac.be/fr/universite/facultes/fs/enseignement/pages/pde_fs.aspx) at the University of Mons, Belgium:
 
 - [US-B2-SCBIOL-006-M](http://applications.umons.ac.be/web/en/pde/2017-2018/ue/US-B2-SCBIOL-006-M.htm): Biostatistics and Probability
 - [US-B3-SCBIOL-006-M](http://applications.umons.ac.be/web/en/pde/2017-2018/ue/US-B3-SCBIOL-006-M.htm): Biostatistics

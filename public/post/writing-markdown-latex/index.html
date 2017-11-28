@@ -94,7 +94,7 @@
         <span class="icon-bar"></span>
       </button>
       
-      <a class="navbar-brand" href="/"><img src="/img/signature.png" alt="Philippe Grosjean"></a>
+      <a class="navbar-brand" href="/"><img src="/img/logo.png" alt="Philippe Grosjean"></a>
     </div>
 
     
@@ -183,6 +183,23 @@
           <a href="/#teaching">
             
             <span>Teaching</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#tags">
+            
+            <span>Tags</span>
             
           </a>
         </li>
@@ -296,7 +313,7 @@
 
 
       <div class="article-style" itemprop="articleBody">
-        <p>Content can be written using <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown</a>, <a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank">LaTeX math</a>, and <a href="http://gohugo.io/extras/shortcodes/" target="_blank">Hugo Shortcodes</a>. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.</p>
+        <p>Content can be written using <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown</a>, <a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics">LaTeX math</a>, and <a href="http://gohugo.io/extras/shortcodes/">Hugo Shortcodes</a>. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.</p>
 
 <h2>Table of Contents</h2>
 <nav id="TableOfContents">
@@ -403,7 +420,7 @@ Strikethrough with ~~two tildes~~.
 
 <h2 id="emojis">Emojis</h2>
 
-<p>See the <a href="http://www.webpagefx.com/tools/emoji-cheat-sheet/" target="_blank">Emoji cheat sheet</a> for available emoticons. The following serves as an example, but you should remove the spaces between each emoji name and pair of semicolons:</p>
+<p>See the <a href="http://www.webpagefx.com/tools/emoji-cheat-sheet/">Emoji cheat sheet</a> for available emoticons. The following serves as an example, but you should remove the spaces between each emoji name and pair of semicolons:</p>
 
 <pre><code>I : heart : Academic : smile :
 </code></pre>
@@ -448,7 +465,7 @@ print(&quot;You entered: {}&quot;.format(input_string_var))
 
 <h3 id="highlighting-options">Highlighting options</h3>
 
-<p>The Academic theme uses <a href="https://highlightjs.org" target="_blank">highlight.js</a> for source code highlighting, and highlighting is enabled by default for all pages. However, several configuration options are supported that allow finer-grained control over highlight.js.</p>
+<p>The Academic theme uses <a href="https://highlightjs.org">highlight.js</a> for source code highlighting, and highlighting is enabled by default for all pages. However, several configuration options are supported that allow finer-grained control over highlight.js.</p>
 
 <p>The following table lists the supported options for configuring highlight.js, along with their expected type and a short description. A &quot;yes&quot; in the <strong>config.toml</strong> column means the value can be set globally in <code>config.toml</code>, and a &quot;yes&quot; in the <strong>preamble</strong> column means that the value can be set locally in a particular page's preamble.</p>
 
@@ -536,9 +553,9 @@ print(&quot;You entered: {}&quot;.format(input_string_var))
 
 <p>The <code>highlight_languages</code> options specified in <code>config.toml</code> and in a page's preamble are additive. That is, if <code>config.toml</code> contains, <code>highlight_languages = [&quot;go&quot;]</code> and the page's preamble contains <code>highlight_languages = [&quot;ocaml&quot;]</code>, then javascript files for <em>both</em> go and ocaml will be included for that page.</p>
 
-<p>If the <code>highlight_languages</code> option is set, then the corresponding javascript files will be served from the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs server</a>. To see a list of available languages, visit the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs page</a> and search for links with the word &quot;languages&quot;.</p>
+<p>If the <code>highlight_languages</code> option is set, then the corresponding javascript files will be served from the <a href="https://cdnjs.com/libraries/highlight.js/">cdnjs server</a>. To see a list of available languages, visit the <a href="https://cdnjs.com/libraries/highlight.js/">cdnjs page</a> and search for links with the word &quot;languages&quot;.</p>
 
-<p>The <code>highlight_languages</code> option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn't meet your needs, you can include javascript files for additional language support via one of the methods described in the <a href="/post/getting-started/#third-party-and-local-scripts-js" target="_blank">getting started guide</a>.</p>
+<p>The <code>highlight_languages</code> option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn't meet your needs, you can include javascript files for additional language support via one of the methods described in the <a href="/post/getting-started/#third-party-and-local-scripts-js">getting started guide</a>.</p>
 
 <h4 id="option-highlight-style">Option <code>highlight_style</code></h4>
 
@@ -546,18 +563,18 @@ print(&quot;You entered: {}&quot;.format(input_string_var))
 
 <p>If the <code>highlight_style</code> option is unset, the default is to use the file <code>/css/highlight.min.css</code>, either the one provided by the Academic theme, or else the one in your local <code>static</code> directory.  The <code>/css/highlight.min.css</code> file provided by Academic is equivalent to the <code>github</code> style from highlight.js.</p>
 
-<p>If the <code>highlight_style</code> option <em>is</em> set, then <code>/css/highlight.min.css</code> is ignored, and the corresponding css file will be served from the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs server</a>. To see a list of available styles, visit the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs page</a> and search for links with the word &quot;styles&quot;.</p>
+<p>If the <code>highlight_style</code> option <em>is</em> set, then <code>/css/highlight.min.css</code> is ignored, and the corresponding css file will be served from the <a href="https://cdnjs.com/libraries/highlight.js/">cdnjs server</a>. To see a list of available styles, visit the <a href="https://cdnjs.com/libraries/highlight.js/">cdnjs page</a> and search for links with the word &quot;styles&quot;.</p>
 
-<p>See the <a href="https://highlightjs.org/static/demo/" target="_blank">highlight.js demo page</a> for examples of available styles.</p>
+<p>See the <a href="https://highlightjs.org/static/demo/">highlight.js demo page</a> for examples of available styles.</p>
 
 <div class="alert alert-note">
-  <p>Not all styles listed on the <a href="https://highlightjs.org/static/demo/" target="_blank">highlight.js demo page</a> are available from the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs server</a>. If you want to use a style that is not served by cdnjs, just leave <code>highlight_style</code> unset, and place the corresponding css file in <code>/static/css/highlight.min.css</code>.</p>
+  <p>Not all styles listed on the <a href="https://highlightjs.org/static/demo/">highlight.js demo page</a> are available from the <a href="https://cdnjs.com/libraries/highlight.js/">cdnjs server</a>. If you want to use a style that is not served by cdnjs, just leave <code>highlight_style</code> unset, and place the corresponding css file in <code>/static/css/highlight.min.css</code>.</p>
 
 </div>
 
 
 <div class="alert alert-note">
-  <p>If you don't want to change the default style that ships with Academic but you do want the style file served from the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs server</a>, set <code>highlight_style = &quot;github&quot;</code> in <code>config.toml</code>.</p>
+  <p>If you don't want to change the default style that ships with Academic but you do want the style file served from the <a href="https://cdnjs.com/libraries/highlight.js/">cdnjs server</a>, set <code>highlight_style = &quot;github&quot;</code> in <code>config.toml</code>.</p>
 
 </div>
 
@@ -709,6 +726,14 @@ Here's some important information...
       
 
 
+<div class="article-tags">
+  
+  <a class="btn btn-primary btn-outline" href="/tags/academic">academic</a>
+  
+  <a class="btn btn-primary btn-outline" href="/tags/r-markdown">R Markdown</a>
+  
+</div>
+
 
 
     </div>
@@ -730,7 +755,7 @@ Here's some important information...
   <div class="container">
     <p class="powered-by">
 
-      &copy; 2017 Philippe Grosjean &middot; 
+      &copy; 2017 Philippe Grosjean (license <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>) &middot; 
 
       Powered by the
       <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
