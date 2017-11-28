@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "default"
+  color_theme = "coffee"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo = "signature.png"
 
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -217,7 +217,12 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/phgrosjean"
 
-[[params.social]]
+  [[params.social]]
+    icon = "stack-overflow"
+    icon_pack = "fa"
+    link = "https://stackoverflow.com/users/1888386/philippe-grosjean"
+
+  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/philippe-grosjean-5b6b29a2"
@@ -227,10 +232,11 @@ defaultContentLanguageInSubdir = false
     icon_pack = "ai"
     link = "https://scholar.google.com/citations?user=BZxj1p4AAAAJ"
 
-[[params.social]]
+  [[params.social]]
     icon = "researchgate"
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Philippe_Grosjean2"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

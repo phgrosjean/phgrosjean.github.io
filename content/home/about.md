@@ -10,31 +10,35 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Marine ecophysiology",
+    "Aquatic Mesocosms",
+    "Corals & Plankton",
+    "Open Data Science",
+    "Software Development using R",
+    "Reproducible Research",
+    "Complex Systems Modelling"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Marine Biology"
+  institution = "Université Libre de Bruxelles"
+  year = 2001
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Master in Agricultural Bioengineering, orientation Applied Zoology"
+  institution = "Université Libre de Bruxelles"
+  year = 1991
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "Bachelor in Bioengineering"
+  institution = "Université Libre de Bruxelles"
+  year = 1989
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Philippe Grosjean is a professor of marine ecology and biostatistics at the Complexys Institute, University of Mons (UMONS), Belgium. His research interests include coral ecophysiology, artificial reef mesocosms, automatic identification of plankton images, growth models, machine learning algorithms, evolution and ecology of open source software. He is the head of the Numerical Ecology of Aquatic Systems laboratory, which studies coral and plankton, and develops software for the ecologist. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He teaches the whole curriculum of biostatistics to students in biology at UMONS, where we emphasize the importance of good practice for reproductible research and open science. He is also in charge of the courses in marine ecology, ecophysiology, oceanography, and aquariology at UMONS.
