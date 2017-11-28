@@ -4,10 +4,10 @@
 # `selected = true` in their `+++` front matter.
 widget = "publications_selected"
 active = true
-date = 2016-04-20
+date = 2017-11-28
 
 title = "Selected Publications"
-subtitle = ""
+subtitle = "[Full list of publications (UMONS)](http://staff.umons.ac.be/philippe.grosjean/pubsEn.html)"
 
 # Order that this section will appear in.
 weight = 10

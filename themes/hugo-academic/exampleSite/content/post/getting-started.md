@@ -10,7 +10,7 @@ Create a beautifully simple personal or academic website in under 10 minutes.
 """
 
 [header]
-image = "headers/getting-started.png"
+image = "headers/getting-started.jpg"
 caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 
 +++

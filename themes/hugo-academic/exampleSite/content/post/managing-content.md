@@ -16,7 +16,7 @@ To display a featured image in content page headers, the parameters below can be
 
 ```toml
 [header]
-image = "headers/getting-started.png"
+image = "headers/getting-started.jpg"
 caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 
 ```
@@ -100,7 +100,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/main-header.jpg"
 caption = "My caption :smile:"
 
 +++
