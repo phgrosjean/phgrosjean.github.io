@@ -77,15 +77,6 @@
     
     <url>
     
-      <loc>/project/coream/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/project/ecos/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -115,6 +106,15 @@
     
       <loc>/post/writing-markdown-latex/</loc>
       <lastmod>2016-04-17T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/coream/</loc>
+      <lastmod>2014-03-12T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -169,7 +169,27 @@
     
     <url>
     
+      <loc>/tags/artificial-mesocosms/</loc>
+      <lastmod>2014-03-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/coral-reef/</loc>
+      <lastmod>2014-03-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -180,16 +200,6 @@
     
       <loc>/tags/data-science/</loc>
       <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -220,6 +230,16 @@
     
       <loc>/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/ocean-acidification/</loc>
+      <lastmod>2014-03-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

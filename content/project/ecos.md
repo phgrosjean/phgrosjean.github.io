@@ -3,10 +3,10 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Ecological Studies of Open Source Software Ecosystem (ECOS)"
+title = "Ecological Studies of Open Source Software Ecosystem"
 
 # Project summary to display on homepage.
-summary = "Collections of OSS projects developed by the same developer community can be considered as software ecosystems bearing many similarities with biological ecosystems. ECOS aims to investiguate whether knowledge on the evolution of biological ecosystems can provide support to optimize the fitness, resistance and resilience of OSS projects."
+summary = "ECOS investiguates whether knowledge on the evolution of biological ecosystems can provide support to optimize the fitness, resistance and resilience of software ecosystems."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "ecos.png"

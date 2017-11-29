@@ -3,10 +3,10 @@
 date = "2017-11-29"
 
 # Project title.
-title = "SciViews - Reproducible research with R and Python"
+title = "SciViews - Reproducible research with R"
 
 # Project summary to display on homepage.
-summary = "SciViews provides a series of open source software to supplement R, for statistical computing in a reproducible workflow."
+summary = "SciViews provides a series of open source software to supplement R, for statistical computing in a reproducible workflow: R packages and the SciViews Box."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "sciviews.png"
