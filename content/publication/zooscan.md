@@ -3,7 +3,7 @@ title = "Enumeration, measurement, and identification of net zooplankton samples
 date = "2004-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P. Grosjean", "M. Picheral", "C. Warembourg", "G. Gorsky"]
+authors = ["**P. Grosjean**", "M. Picheral", "C. Warembourg", "G. Gorsky"]
 
 # Publication type.
 # Legend:

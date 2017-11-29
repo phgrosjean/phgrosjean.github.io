@@ -3,7 +3,7 @@ title = "FLR: an open-source framework for the evaluation and development of man
 date = "2007-03-29"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L.T. Kell", "I. Mosqueira", "P. Grosjean", "J-M. Fromentin", "D. Garcia", "R. Hillary", "E. Jardim", "S. Mardle", "M.A. Pastoors", "J.J. Poos", "F. Scott", "R.D. Scott"]
+authors = ["L.T. Kell", "I. Mosqueira", "**P. Grosjean**", "J-M. Fromentin", "D. Garcia", "R. Hillary", "E. Jardim", "S. Mardle", "M.A. Pastoors", "J.J. Poos", "F. Scott", "R.D. Scott"]
 
 # Publication type.
 # Legend:

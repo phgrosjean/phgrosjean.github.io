@@ -3,7 +3,7 @@ title = "RAPID: Research on automated plankton identification"
 date = "2007-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["M.C. Benfield, P. Grosjean, P.F. Culverhouse, X. Irigoien, M.E. Sieracki, A. Lopez-Urrutia, H.G. Dam, Q. Hu, C.S. Davis, A. Hansen, C.H. Pilskaln, E.M. Riseman, H. Schultz, P.E. Utgoff, G. Gorsky"]
+authors = ["M.C. Benfield", "**P. Grosjean**", "P.F. Culverhouse", "X. Irigoien", "M.E. Sieracki", "A. Lopez-Urrutia", "H.G. Dam", "Q. Hu", "C.S. Davis", "A. Hansen", "C.H. Pilskaln", "E.M. Riseman", "H. Schultz", "P.E. Utgoff", "G. Gorsky"]
 
 # Publication type.
 # Legend:
