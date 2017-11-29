@@ -111,7 +111,7 @@
 &lt;li&gt;&lt;strong&gt;Inspiration&lt;/strong&gt;: scan web sites with a critical eye. Get inspired by good ideas.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Images and binary resource&lt;/strong&gt; should be kept outside version control repositories as much as possible, but it complexifies the whole system.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;URL shortener&lt;/strong&gt;: good for short-term use, but to be prohibited for web sites, unless you have full control on them, including the URL they point to, in order to adapt them (e.g., &lt;a href=&#34;http://www.rebrandly.com&#34;&gt;Rebrandly&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Static pages&lt;/strong&gt;: you can go very far with static pages generated with &lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; or &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, and you get also full reproductible production including data analysis using &lt;a href=&#34;https://bookdown.org/yihui/bookdown/&#34;&gt;Bookdown&lt;/a&gt; or &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Static pages&lt;/strong&gt;: you can go very far with static pages generated with &lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; or &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, and you get also full reproducible production including data analysis using &lt;a href=&#34;https://bookdown.org/yihui/bookdown/&#34;&gt;Bookdown&lt;/a&gt; or &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </description>

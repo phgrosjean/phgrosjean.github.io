@@ -86,4 +86,4 @@ A couple of idea gathered from various readings about Web design, in brief.
 - **Inspiration**: scan web sites with a critical eye. Get inspired by good ideas.
 - **Images and binary resource** should be kept outside version control repositories as much as possible, but it complexifies the whole system.
 - **URL shortener**: good for short-term use, but to be prohibited for web sites, unless you have full control on them, including the URL they point to, in order to adapt them (e.g., [Rebrandly](http://www.rebrandly.com)).
-- **Static pages**: you can go very far with static pages generated with [Jekyll](https://jekyllrb.com) or [Hugo](https://gohugo.io), and you get also full reproductible production including data analysis using [Bookdown](https://bookdown.org/yihui/bookdown/) or [Blogdown](https://bookdown.org/yihui/blogdown/).
+- **Static pages**: you can go very far with static pages generated with [Jekyll](https://jekyllrb.com) or [Hugo](https://gohugo.io), and you get also full reproducible production including data analysis using [Bookdown](https://bookdown.org/yihui/bookdown/) or [Blogdown](https://bookdown.org/yihui/blogdown/).
