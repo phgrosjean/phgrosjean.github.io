@@ -20,7 +20,7 @@ weight = 3
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "/files/CVen_2017_11.pdf"
+  url = "http://go.sciviews.org/cven_PhG"
   label = '<i class="fa fa-download"></i> Curriculum Vitae (PDF)'
 
 +++

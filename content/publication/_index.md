@@ -1,8 +1,8 @@
 +++
 title = "Publications"
-date = "2017-01-01T00:00:00Z"
-math = false
-highlight = false
+date = "2017-11-29T13:47:00Z"
+math = true
+highlight = true
 
 # List format.
 #   0 = Simple
@@ -13,6 +13,6 @@ list_format = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "headers/book-header.jpg"
+caption = "Image credit: [**Pexels**](https://pixabay.com/en/blur-bokeh-book-college-data-1868068/)"
 +++

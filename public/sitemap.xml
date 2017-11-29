@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/publication/</loc>
+      <lastmod>2017-11-29T13:47:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/</loc>
       <lastmod>2017-11-28T18:43:00+00:00</lastmod>
     </url>
@@ -32,6 +41,15 @@
     
     <url>
     
+      <loc>/talk/example-talk/</loc>
+      <lastmod>2017-11-28T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/</loc>
       <lastmod>2017-11-28T00:00:00+01:00</lastmod>
     </url>
@@ -43,24 +61,6 @@
     
       <loc>/post/2017-11-27-r-rmarkdown/</loc>
       <lastmod>2017-11-27T18:36:00-01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -113,8 +113,8 @@
     
     <url>
     
-      <loc>/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <loc>/publication/rapid/</loc>
+      <lastmod>2007-06-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -122,8 +122,8 @@
     
     <url>
     
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>/publication/flr/</loc>
+      <lastmod>2007-03-29T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -131,9 +131,8 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>/publication/zooscan/</loc>
+      <lastmod>2004-05-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -142,7 +141,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <lastmod>2007-06-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -251,7 +250,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <lastmod>2007-06-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

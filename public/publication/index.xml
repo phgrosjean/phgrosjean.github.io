@@ -7,26 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Philippe Grosjean (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2017 13:47:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>RAPID: Research on automated plankton identification</title>
+      <link>/publication/rapid/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>/publication/rapid/</guid>
+      <description>&lt;p&gt;This publication is written by members of the &lt;a href=&#34;http://www.scor-int.org/SCOR_WGs_WG130.htm&#34;&gt;SCOR WG 130
+Automatic Visual Plankton Identification&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>FLR: an open-source framework for the evaluation and development of management strategies</title>
+      <link>/publication/flr/</link>
+      <pubDate>Thu, 29 Mar 2007 00:00:00 +0000</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>/publication/flr/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flr-project.org&#34;&gt;FLR&lt;/a&gt;, the Fisheries Library in R, is a collection of tools for quantitative fisheries science, developed in the R language, that facilitates the construction of bio-economic simulation models of fisheries systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enumeration, measurement, and identification of net zooplankton samples using the ZOOSCAN digital imaging system</title>
+      <link>/publication/zooscan/</link>
+      <pubDate>Sat, 01 May 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/zooscan/</guid>
+      <description>&lt;p&gt;The ZOOSCAN is &lt;a href=&#34;http://www.google.com/patents/US20050123174&#34;&gt;patented&lt;/a&gt; and commercialized, currently by &lt;a href=&#34;http://www.hydroptic.com/index.php/public/Page/product_item/ZOOSCAN&#34;&gt;Hydroptic&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
