@@ -1,4 +1,4 @@
-baseurl = "http://phgrosjean.sciviews.org/"
+baseurl = "http://phgrosjean.sciviews.org/public/"
 title = "Philippe Grosjean"
 copyright = "&copy; 2017 Philippe Grosjean (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))"
 theme = "hugo-academic"

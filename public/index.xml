@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philippe Grosjean on Philippe Grosjean</title>
-    <link>/</link>
+    <link>/public/</link>
     <description>Recent content in Philippe Grosjean on Philippe Grosjean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Philippe Grosjean (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="/public/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SciViews - Reproducible research with R</title>
-      <link>/project/sciviews/</link>
+      <link>/public/project/sciviews/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/sciviews/</guid>
+      <guid>/public/project/sciviews/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effective Web Design</title>
-      <link>/post/effective-web-design/</link>
+      <link>/public/post/effective-web-design/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/effective-web-design/</guid>
+      <guid>/public/post/effective-web-design/</guid>
       <description>&lt;p&gt;A couple of idea gathered from various readings about Web design, in brief.&lt;/p&gt;
 &lt;div id=&#34;key-aspects&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Key aspects&lt;/h2&gt;
@@ -128,10 +128,10 @@
     
     <item>
       <title>SciViews Box</title>
-      <link>/post/sciviews-box/</link>
+      <link>/public/post/sciviews-box/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/sciviews-box/</guid>
+      <guid>/public/post/sciviews-box/</guid>
       <description>&lt;p&gt;The SciViews Box is a VirtualBox virtual machine completely installed with Xubuntu, R, R Studio, Python, Jupyter and Spyder, plus more than a thousand packages. It will be also provided with a quick installer and a quick launcher.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;This is a work in progress… please, come back later!&lt;/strong&gt;&lt;/p&gt;
 </description>
@@ -139,20 +139,20 @@
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
+      <link>/public/talk/example-talk/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0100</pubDate>
       
-      <guid>/talk/example-talk/</guid>
+      <guid>/public/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>R Markdown test</title>
-      <link>/post/2017-11-27-r-rmarkdown/</link>
+      <link>/public/post/2017-11-27-r-rmarkdown/</link>
       <pubDate>Mon, 27 Nov 2017 18:36:00 -0100</pubDate>
       
-      <guid>/post/2017-11-27-r-rmarkdown/</guid>
+      <guid>/public/post/2017-11-27-r-rmarkdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;R Markdown&lt;/h2&gt;
 &lt;p&gt;Test of an R Markdown post, see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;. You can embed an R code chunk like this:&lt;/p&gt;
@@ -177,7 +177,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2017-11-27-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/public/post/2017-11-27-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -193,19 +193,19 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Ecological Studies of Open Source Software Ecosystem</title>
-      <link>/project/ecos/</link>
+      <link>/public/project/ecos/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/ecos/</guid>
+      <guid>/public/project/ecos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>/public/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>/public/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
@@ -216,7 +216,7 @@ Figure 1: A fancy pie chart.
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;/public/public/post/writing-markdown-latex/&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
@@ -313,11 +313,11 @@ cd my_website
 
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
 
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;/public/public/post/managing-content/&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/public/public/post/managing-content/#removing-content&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;themes&#34;&gt;Themes&lt;/h3&gt;
 
@@ -487,15 +487,15 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Managing content</title>
-      <link>/post/managing-content/</link>
+      <link>/public/post/managing-content/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
+      <guid>/public/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;/public/public/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;To enable LaTeX math rendering for a page, you should include &lt;code&gt;math = true&lt;/code&gt; in the page&#39;s &lt;code&gt;+++&lt;/code&gt; preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&#39;s preamble. See the &lt;a href=&#34;/post/writing-markdown-latex/#code-highlighting&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&#39;s preamble. See the &lt;a href=&#34;/public/public/post/writing-markdown-latex/#code-highlighting&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
 
 &lt;p&gt;To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&#39;s &lt;code&gt;+++&lt;/code&gt; preamble. It is assumed that the image is located in your &lt;code&gt;static/img/&lt;/code&gt; folder, so the full path in the example below will be &lt;code&gt;static/img/headers/getting-started.png&lt;/code&gt;. The &lt;code&gt;caption&lt;/code&gt; parameter can be used to write an image caption or credit.&lt;/p&gt;
 
@@ -717,10 +717,10 @@ widgets = true
     
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>/post/writing-markdown-latex/</link>
+      <link>/public/post/writing-markdown-latex/</link>
       <pubDate>Sun, 17 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/post/writing-markdown-latex/</guid>
+      <guid>/public/post/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.&lt;/p&gt;
 
 &lt;h2&gt;Table of Contents&lt;/h2&gt;
@@ -963,7 +963,7 @@ print(&amp;quot;You entered: {}&amp;quot;.format(input_string_var))
 
 &lt;p&gt;If the &lt;code&gt;highlight_languages&lt;/code&gt; option is set, then the corresponding javascript files will be served from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34;&gt;cdnjs server&lt;/a&gt;. To see a list of available languages, visit the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34;&gt;cdnjs page&lt;/a&gt; and search for links with the word &amp;quot;languages&amp;quot;.&lt;/p&gt;
 
-&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&#39;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;/post/getting-started/#third-party-and-local-scripts-js&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&#39;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;/public/public/post/getting-started/#third-party-and-local-scripts-js&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&#34;option-highlight-style&#34;&gt;Option &lt;code&gt;highlight_style&lt;/code&gt;&lt;/h4&gt;
 
@@ -1133,10 +1133,10 @@ Here&#39;s some important information...
     
     <item>
       <title>Coral reef ecology in acidified mesocosms</title>
-      <link>/project/coream/</link>
+      <link>/public/project/coream/</link>
       <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/project/coream/</guid>
+      <guid>/public/project/coream/</guid>
       <description>
 
 &lt;p&gt;The goal of the COREAM project was to monitor changes induced by Ocean Acidification (OA) in coral reef ecosystems established in artificial mesocosms, focusing on long term effects in order to take acclimation into account.&lt;/p&gt;
@@ -1229,10 +1229,10 @@ Here&#39;s some important information...
     
     <item>
       <title>RAPID: Research on automated plankton identification</title>
-      <link>/publication/rapid/</link>
+      <link>/public/publication/rapid/</link>
       <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
       
-      <guid>/publication/rapid/</guid>
+      <guid>/public/publication/rapid/</guid>
       <description>&lt;p&gt;This publication is written by members of the &lt;a href=&#34;http://www.scor-int.org/SCOR_WGs_WG130.htm&#34;&gt;SCOR WG 130
 Automatic Visual Plankton Identification&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -1240,20 +1240,20 @@ Automatic Visual Plankton Identification&lt;/a&gt;.&lt;/p&gt;
     
     <item>
       <title>FLR: an open-source framework for the evaluation and development of management strategies</title>
-      <link>/publication/flr/</link>
+      <link>/public/publication/flr/</link>
       <pubDate>Thu, 29 Mar 2007 00:00:00 +0000</pubDate>
       
-      <guid>/publication/flr/</guid>
+      <guid>/public/publication/flr/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flr-project.org&#34;&gt;FLR&lt;/a&gt;, the Fisheries Library in R, is a collection of tools for quantitative fisheries science, developed in the R language, that facilitates the construction of bio-economic simulation models of fisheries systems.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Enumeration, measurement, and identification of net zooplankton samples using the ZOOSCAN digital imaging system</title>
-      <link>/publication/zooscan/</link>
+      <link>/public/publication/zooscan/</link>
       <pubDate>Sat, 01 May 2004 00:00:00 +0000</pubDate>
       
-      <guid>/publication/zooscan/</guid>
+      <guid>/public/publication/zooscan/</guid>
       <description>&lt;p&gt;The ZOOSCAN is &lt;a href=&#34;http://www.google.com/patents/US20050123174&#34;&gt;patented&lt;/a&gt; and commercialized, currently by &lt;a href=&#34;http://www.hydroptic.com/index.php/public/Page/product_item/ZOOSCAN&#34;&gt;Hydroptic&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

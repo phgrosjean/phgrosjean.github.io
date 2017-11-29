@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Philippe Grosjean</title>
-    <link>/project/</link>
+    <link>/public/project/</link>
     <description>Recent content in Projects on Philippe Grosjean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Philippe Grosjean (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
     <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    <atom:link href="/public/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SciViews - Reproducible research with R</title>
-      <link>/project/sciviews/</link>
+      <link>/public/project/sciviews/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/sciviews/</guid>
+      <guid>/public/project/sciviews/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecological Studies of Open Source Software Ecosystem</title>
-      <link>/project/ecos/</link>
+      <link>/public/project/ecos/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/ecos/</guid>
+      <guid>/public/project/ecos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coral reef ecology in acidified mesocosms</title>
-      <link>/project/coream/</link>
+      <link>/public/project/coream/</link>
       <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/project/coream/</guid>
+      <guid>/public/project/coream/</guid>
       <description>
 
 &lt;p&gt;The goal of the COREAM project was to monitor changes induced by Ocean Acidification (OA) in coral reef ecosystems established in artificial mesocosms, focusing on long term effects in order to take acclimation into account.&lt;/p&gt;
