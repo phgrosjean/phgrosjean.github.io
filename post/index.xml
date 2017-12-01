@@ -134,7 +134,7 @@
       <pubDate>Mon, 27 Nov 2017 18:36:00 -0100</pubDate>
       
       <guid>/post/2017-11-27-r-rmarkdown/</guid>
-      <description>&lt;p&gt;Some Python code:&lt;/p&gt;
+      <description>&lt;p&gt;Some example Python code:&lt;/p&gt;
 &lt;pre class=&#34;python&#34;&gt;&lt;code&gt;import re
 for test_string in [&amp;#39;555-1212&amp;#39;, &amp;#39;ILL-EGAL&amp;#39;]:
   if re.match(r&amp;#39;^\d{3}-\d{4}$&amp;#39;, test_string):
