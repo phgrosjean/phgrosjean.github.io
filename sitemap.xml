@@ -113,6 +113,15 @@
     
     <url>
     
+      <loc>/project/zooimage/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/coream/</loc>
       <lastmod>2014-03-12T00:00:00+00:00</lastmod>
     </url>
@@ -238,6 +247,26 @@
     
     <url>
     
+      <loc>/tags/image-analysis/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/machine-learning/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/ocean-acidification/</loc>
       <lastmod>2014-03-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -260,6 +289,16 @@
     
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/plankton/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
