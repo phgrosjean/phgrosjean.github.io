@@ -28,7 +28,7 @@
   
     
     
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/solarized-dark.min.css">
     
   
   
@@ -256,7 +256,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    1 min read
+    2 min read
   </span>
   
 
@@ -328,7 +328,23 @@
 
 
       <div class="article-style" itemprop="articleBody">
-        <div id="r-markdown" class="section level2">
+        <p>Some Python code:</p>
+<pre class="python"><code>import re
+for test_string in [&#39;555-1212&#39;, &#39;ILL-EGAL&#39;]:
+  if re.match(r&#39;^\d{3}-\d{4}$&#39;, test_string):
+    print test_string, &#39;is a valid US local phone number&#39;
+  else:
+    print test_string, &#39;rejected&#39;</code></pre>
+<p>… and R code:</p>
+<pre class="r"><code>cube &lt;- function(x) {
+  if (!is.numeric(x))
+    stop(&quot;&#39;x&#39; must be numeric&quot;)
+  return(x^3)
+}
+# Use this function
+cube(1:10)</code></pre>
+<p>R Chunks:</p>
+<div id="r-markdown" class="section level2">
 <h2>R Markdown</h2>
 <p>Test of an R Markdown post, see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>. You can embed an R code chunk like this:</p>
 <pre class="r"><code>cars_lm &lt;- lm(dist ~ speed, data = cars)
@@ -369,6 +385,41 @@ Figure 1: A fancy pie chart.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excited about the new R Release? <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a><br>😋🎋 Welcome &quot;Kite-Eating Tree&quot;!<br>🙌🎥 gif courtesy of <a href="https://twitter.com/pdalgd?ref_src=twsrc%5Etfw">@pdalgd</a>!<br>🤔👇 Curious about the other R release name origins? Check out our post!<br>🔗 <a href="https://t.co/b7XkQKwHpM">https://t.co/b7XkQKwHpM</a> <a href="https://t.co/J1UNks276A">pic.twitter.com/J1UNks276A</a></p>&mdash; Lucy 🌻 (@LucyStats) <a href="https://twitter.com/LucyStats/status/936232450006704128?ref_src=twsrc%5Etfw">November 30, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div id="other-examples" class="section level3">
+<h3>Other examples</h3>
+<p>Youtube</p>
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/ZwYQPtU2Pa0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+ </div>
+
+<p>Vimeo</p>
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//player.vimeo.com/video/146022717" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+ </div>
+
+<p>Github Gist</p>
+<script src="//gist.github.com/phgrosjean/f1d53c0dc1124522b2138033188497d0.js"></script>
+<p>Speakerdeck</p>
+<script async class='speakerdeck-embed' data-id='4e8126e72d853c0060001f97' data-ratio='1.33333333333333' src='//speakerdeck.com/assets/embed.js'></script>
+<p>Figure</p>
+
+<figure >
+    
+        <img src="/img/coral.jpg" alt="A nice fluorescent coral" />
+    
+    
+</figure>
+
+<p>Code highlight (python)</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">&lt;</span>p<span style="color:#f92672">&gt;</span><span style="color:#66d9ef">print</span>(<span style="color:#e6db74"></span><span style="color:#e6db74">&#34;Hello world&#34;</span>) <span style="color:#75715e"># Comment&lt;/p&gt;</span></code></pre></div>
+<p>Code highlight (R)</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-r" data-lang="r"><span style="color:#f92672">&lt;</span>h1 id<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;an-example-r-code&#34;</span><span style="color:#f92672">&gt;</span>An example R code<span style="color:#f92672">&lt;/</span>h1<span style="color:#f92672">&gt;</span>
+
+<span style="color:#f92672">&lt;</span>p<span style="color:#f92672">&gt;</span>x <span style="color:#f92672">&lt;-</span> rnorm(<span style="color:#ae81ff">100</span>)
+hist(x, col <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;cornsilk&#34;</span>)<span style="color:#f92672">&lt;/</span>p<span style="color:#f92672">&gt;</span></code></pre></div>
+</div>
 </div>
 
       </div>
@@ -406,6 +457,23 @@ Figure 1: A fancy pie chart.
 </div>
 
 
+
+<div class="container article-widget">
+  <nav>
+  <ul class="pager">
+    
+    <li class="previous"><a href="/post/getting-started/"><span
+      aria-hidden="true">&larr;</span> Getting started with the Academic framework for Hugo</a></li>
+    
+
+    
+    <li class="next"><a href="/post/sciviews-box/">SciViews Box <span
+      aria-hidden="true">&rarr;</span></a></li>
+    
+  </ul>
+</nav>
+
+</div>
 
 
 <div class="article-container">
@@ -509,9 +577,9 @@ Figure 1: A fancy pie chart.
       
 
       
-      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
-      
       <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
       
 
       
