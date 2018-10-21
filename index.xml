@@ -132,9 +132,11 @@
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/sciviews-box/</guid>
-      <description>&lt;p&gt;The SciViews Box is a VirtualBox virtual machine completely installed with Xubuntu, R, RStudio, Python, Jupyter and Spyder, plus more than a thousand packages. It is designed to be used as a reproducible data science toolbox. A new SciViews Box is released every year with updated software.&lt;/p&gt;
-&lt;p&gt;The SciViews Box is meant to lower the technological barrier for “non-geek” users that want to do reproducible data science. As such, it provides a uniform and predictible environment (what works on one computer should work on another one, being a PC under Windows, Linux or MacOS). It is also as easy as possible to install and configure. An installer is available for Windows and MacOS users, and it provides an easy launcher that automatically configures, starts, and connects to the SciViews Box. RStudio server and Jupyter are immediately available.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://biodatascience-course.sciviews.org/sdd-umons/install.html&#34;&gt;Instructions to install and use the SciViews Box 2018&lt;/a&gt; (in French).&lt;/p&gt;
+      <description>&lt;p&gt;The &lt;strong&gt;SciViews Box&lt;/strong&gt; is a VirtualBox virtual machine completely installed with Xubuntu, R, RStudio, Python, Jupyter and Spyder, plus more than a thousand packages. It is designed to be used as a reproducible data science toolbox. A new SciViews Box is released every year with updated software.&lt;/p&gt;
+&lt;p&gt;The SciViews Box is meant to lower the technological barrier for “non-geek” users that want to do reproducible data science. As such, it provides a uniform and predictable environment (what works on one computer should work on another one, being a PC under Windows, Linux or MacOS). It is also as easy as possible to install and configure. An installer is available for Windows and MacOS users, and it provides an easy launcher that automatically configures, starts, and connects to the SciViews Box. RStudio server and Jupyter are immediately available.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://biodatascience-course.sciviews.org/sdd-umons/install.html&#34;&gt;Instructions to install and use the SciViews Box 2018&lt;/a&gt; (in French). &lt;!--stackedit_data:
+eyJoaXN0b3J5IjpbMjQ2NTY0MTc5XX0=
+--&gt;&lt;/p&gt;
 </description>
     </item>
     
